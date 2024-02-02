@@ -1,1 +1,1 @@
-print("kk gggg")
+print("Veni vidi vici")
