@@ -1,1 +1,1 @@
-print("Try 1")
+print("Veni vidi vici")
